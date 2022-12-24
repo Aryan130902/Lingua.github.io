@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;600&family=Sedgwick+Ave+Display&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Axiforma;
+    src: url(./font/FontsFree-Net-sddd4.ttf);
+}
+
+@font-face {
+    font-family: Axiformalight;
+    src: url(./font/FontsFree-Net-sdd5.ttf);
+}
+
+@font-face {
+    font-family: Axiformathin;
+    src: url(./font/FontsFree-Net-Axiforma6woff2.ttf);
+}
